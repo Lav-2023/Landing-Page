@@ -1,0 +1,1 @@
+This website has 4 main sections and a footer.
